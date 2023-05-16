@@ -1,0 +1,19 @@
+# Ignorar arquivos e diretórios gerados pelo Node.js
+node_modules/
+npm-debug.log*
+
+# Ignorar arquivos gerados pelo Yarn
+yarn-error.log
+
+# Ignorar arquivos IDE e editor
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+*.bak
+*.swp
+*.swo
+*.log
+Thumbs.db
+.DS_Stor
