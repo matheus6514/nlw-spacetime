@@ -1,4 +1,4 @@
-import 'dotenv/config'
+// import 'dotenv/config'
 
 import fastify from 'fastify'
 import { memoriesRoutes } from './routes/memories'
